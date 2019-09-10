@@ -10,3 +10,6 @@ https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git
 
 carpentries setup git
 https://jimmccartney.github.io/2019-07-24-uark/#setup
+
+from software carpentries
+https://swcarpentry.github.io/git-novice/02-setup/index.html

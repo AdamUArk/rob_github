@@ -1,7 +1,7 @@
 # rob_github
-explain github to rob
+explain github and git
 
-How to explain github to Rob?
+How to explain github?
 
 add text in vi editor on computer.
 
